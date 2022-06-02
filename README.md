@@ -2,7 +2,7 @@
 
 API de envio de pesquisa de satisfação via e-mail, desenvolvida totalmente no backend.
 
-![App Screenshot](src/views/NPS_API.png)
+![App Screenshot](src/views/emails/NPS_API.png)
 
 Utilizado das seguintes tecnologias:
 
